@@ -20,7 +20,7 @@ const ForgetPassword = () => {
 
     var config = {
       method: "post",
-      url: "https://urlshortner-backendapp.herokuapp.com/api/user/newpassword",
+      url: "https://url-shortner-ywcp.onrender.com/api/user/newpassword",
       headers: {
         "Content-Type": "application/json",
       },

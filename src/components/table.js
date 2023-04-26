@@ -6,7 +6,7 @@ const Table = () => {
 
   var config = {
     method: "get",
-    url: "https://urlshortner-backendapp.herokuapp.com",
+    url: "https://url-shortner-ywcp.onrender.com",
     headers: {},
   };
 
@@ -22,7 +22,7 @@ const Table = () => {
   const details = (id) => {
     var config = {
       method: "get",
-      url: `https://urlshortner-backendapp.herokuapp.com/${id}`,
+      url: `https://url-shortner-ywcp.onrender.com/${id}`,
       headers: {},
     };
 

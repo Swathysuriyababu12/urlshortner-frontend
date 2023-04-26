@@ -12,7 +12,7 @@ const Url = () => {
     });
     var config = {
       method: "post",
-      url: "https://urlshortner-backendapp.herokuapp.com/shorturl",
+      url: "https://url-shortner-ywcp.onrender.com/shorturl",
       headers: {
         "Content-Type": "application/x-www-form-urlencoded",
       },

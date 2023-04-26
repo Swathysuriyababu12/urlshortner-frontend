@@ -18,7 +18,7 @@ const SignUp = () => {
 
     var config = {
       method: "post",
-      url: "https://urlshortner-backendapp.herokuapp.com/api/user",
+      url: "https://url-shortner-ywcp.onrender.com/api/user",
       headers: {
         "Content-Type": "application/json",
       },
